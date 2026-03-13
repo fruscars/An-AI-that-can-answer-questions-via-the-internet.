@@ -1,6 +1,7 @@
 # An-AI-that-can-answer-questions-via-the-internet.
 
 一.qa框架
+
 （1）通过api调用大模型
 
 （2）文本切割
@@ -15,6 +16,7 @@
 
 （6）gradio实现简易前端
 
+（7）嵌入embedding
 
 
 二.提示
